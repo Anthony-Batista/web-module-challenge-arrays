@@ -40,6 +40,8 @@ To save you from having to count the items above, you can assume that length of 
 
 i.e. is31Flavors(originalFlavors) will return TRUE.*/
 
+// hi pace!
+
 function is31Flavors(a){
     console.log(a.length == 31 ? 'true' : 'false')
 }
